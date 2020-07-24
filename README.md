@@ -11,3 +11,8 @@ javac ReverseShell.java
 # create fake JAR file
 zip ars.jar classes.dex
 
+
+
+Awesome Work:
+https://malacupa.com/2018/10/25/android-command-line-reverse-shell.html
+
